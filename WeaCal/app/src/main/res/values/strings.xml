@@ -1,0 +1,50 @@
+<resources>
+    <!--    App Name -->
+    <string name="app_name">Weather</string>
+
+    <!--    General -->
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="manage_cities">Manage cities</string>
+    <string name="weather">Weather</string>
+    <string name="cancel">Cancel</string>
+    <string name="nestedscrollview" translatable="false">NestedScrollView</string>
+    <string name="favorite">Favorite</string>
+
+    <!--    Weather Fragment -->
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="precipitation">Pressure</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="week_forecast">7 Day Forecast</string>
+
+    <!--    Settings Fragment -->
+    <string name="dark_theme">Dark Theme</string>
+    <string name="wind_speed_unit">Wind Speed Unit</string>
+    <string name="temp_unit">Temperature Unit</string>
+    <string name="precipitation_unit">Precipitation Unit</string>
+
+    <!--    City Search Fragment -->
+    <string name="enter_location">Enter location</string>
+
+    <!--    Info strings for tvInfo -->
+    <string name="error_message">"Error: "</string>
+    <string name="searching">Searching…</string>
+    <string name="loading">Loading…</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="no_results">No results</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
