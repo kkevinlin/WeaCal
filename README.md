@@ -1,2 +1,2 @@
 # WeaCal
-a mobile weather app with calendar functionalities1551
+a mobile weather app with calendar functionalities
