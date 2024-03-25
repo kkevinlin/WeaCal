@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Launcher Color. -->
+    <color name="ic_launcher_background">#4D5BFF</color>
+    <!--    Primary Colors. -->
+    <color name="primaryTextColor">#292A2E</color>
+    <color name="primaryBackground">#F7F7F7</color>
+    <!--    Secondary Colors. -->
+    <color name="secondaryTextColor">#616161</color>
+    <color name="secondaryBackground">#FCFCFC</color>
+    <!--    Icon Color. -->
+    <color name="invertedColor">#292A2E</color>
+    <color name="favoriteColor">#E91E63</color>
+</resources>
